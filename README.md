@@ -2,7 +2,6 @@
 Fully-Convolutional Siamese Networks for Object Tracking
 
 ## Overview
-This is 
 I do this project for learning SiamFC and PyTorch. And the project is being perfected.
 
 ## Track
